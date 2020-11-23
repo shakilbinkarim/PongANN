@@ -1,5 +1,5 @@
 # PongANN
-ANN to play pong in Unity
+Artificial Neural Network to play pong in Unity
 
 ## Built With
 
